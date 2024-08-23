@@ -1,3 +1,1 @@
-## Hi there 👋
-
-I'm Ethan.
+## Hi 👋, I'm Ethan.
