@@ -5,7 +5,7 @@
 🌱 I'm on the path to becoming a Full-Stack Developer.<br>
 🧠 I enjoy exploring new technologies — recently diving into the world of LLMs and their real-world applications.<br>
 📚 I'm also learning English — currently watching Modern Family, and my favorite movie is Interstellar.<br>
-📝 I'm using the Discussions section of this repository as my personal blog to share my learning journey and thoughts.
+📝 I'm using the Discussions section as my personal blog to share my learning journey and thoughts. see [Ethan's blog](https://github.com/realethanhsu/realethanhsu/discussions) .
 
 <br> 
 
