@@ -1,10 +1,11 @@
-## Hi 👋, I'm Ethan.
-### A passionate 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from China.  
-  
+## Hi 👋, I'm Ethan.  
 
 ### About me  
-🔭 I’m currently working on my Skills.<br>
-🌱 I’m currently learning more about Full-Stack Development.<br>
-🤔 I’m looking for help with Exploring New Technologies.<br> 
+🔧 I’m currently sharpening my skills in Python, Golang, and Web development.<br>
+🌱 I'm on the path to becoming a Full-Stack Developer.<br>
+🧠 I enjoy exploring new technologies — recently diving into the world of LLMs and their real-world applications.<br>
+📚 I'm also learning English — currently watching Modern Family, and my favorite movie is Interstellar.<br>
+
 <br> 
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=realethanhsu&&style=flat-square)   
